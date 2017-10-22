@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Perceptron.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Perceptron.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_2_czesc_1\Alphabet\Debug\Alphabet.exe
-  Perceptron.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_2_czesc_1\Alphabet\Debug\Alphabet.pdb (Partial PDB)
