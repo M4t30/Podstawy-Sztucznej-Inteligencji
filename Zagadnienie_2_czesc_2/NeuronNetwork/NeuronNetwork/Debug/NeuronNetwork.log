@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_2_czesc_2\neuronnetwork\neuronnetwork\main.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_2_czesc_2\neuronnetwork\neuronnetwork\main.cpp(153): warning C4018: '<': signed/unsigned mismatch
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_2_czesc_2\neuronnetwork\neuronnetwork\main.cpp(155): warning C4018: '<': signed/unsigned mismatch
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_2_czesc_2\neuronnetwork\neuronnetwork\main.cpp(173): warning C4018: '<': signed/unsigned mismatch
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_2_czesc_2\neuronnetwork\neuronnetwork\main.cpp(181): warning C4018: '<': signed/unsigned mismatch
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_2_czesc_2\neuronnetwork\neuronnetwork\main.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  NeuronNetwork.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_2_czesc_2\NeuronNetwork\Debug\NeuronNetwork.exe
+  NeuronNetwork.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_2_czesc_2\NeuronNetwork\Debug\NeuronNetwork.pdb (Partial PDB)
