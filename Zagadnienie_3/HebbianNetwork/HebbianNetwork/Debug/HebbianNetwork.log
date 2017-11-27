@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_3\hebbiannetwork\hebbiannetwork\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_3\hebbiannetwork\hebbiannetwork\main.cpp(81): warning C4018: '<': signed/unsigned mismatch
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_3\hebbiannetwork\hebbiannetwork\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  HebbianNetwork.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_3\HebbianNetwork\Debug\HebbianNetwork.exe
+  HebbianNetwork.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_3\HebbianNetwork\Debug\HebbianNetwork.pdb (Partial PDB)
