@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_4_czesc_2\kohonennetwork\kohonennetwork\main.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_4_czesc_2\kohonennetwork\kohonennetwork\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\agh university of science and technology\rok iii semestr i\podstawy sztucznej inteligencji\zagadnienie_4_czesc_2\kohonennetwork\kohonennetwork\main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  KohonenNetwork.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_4_czesc_2\KohonenNetwork\Debug\KohonenNetwork.exe
+  KohonenNetwork.vcxproj -> D:\AGH University of science and technology\Rok III Semestr I\Podstawy sztucznej inteligencji\Zagadnienie_4_czesc_2\KohonenNetwork\Debug\KohonenNetwork.pdb (Partial PDB)
